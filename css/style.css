@@ -1,3 +1,9 @@
+body{
+    height: 750px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 th  {
     border-radius: 10px 10px 0 0 ;
     border-width: 0 0 1px 0;
