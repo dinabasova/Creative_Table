@@ -1,0 +1,20 @@
+th  {
+    border-radius: 10px 10px 0 0 ;
+    border-width: 0 0 1px 0;
+}
+
+table th:first-child  {
+    visibility: hidden;
+}
+
+table tr:first-child td:first-child {
+    border-radius: 8px 0 0 0;
+}
+
+table tr:last-child td:first-child {
+    border-radius: 0 0 0 8px;
+}
+
+td {
+    border-width: 1px 0 1px 0;
+}
